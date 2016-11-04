@@ -1,2 +1,2 @@
 # ShooterGame
-Play here: <theresistancekth.github.io/ShooterGame>
+Play here: <https://theresistancekth.github.io/ShooterGame>
