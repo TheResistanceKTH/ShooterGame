@@ -1,2 +1,2 @@
 # ShooterGame
-Dank shooter
+Play here: <theresistancekth.github.io/ShooterGame>
